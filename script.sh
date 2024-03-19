@@ -1,0 +1,1 @@
+for i in {1..50}; do curl 31.18.23.195:80?d=Nico; done
