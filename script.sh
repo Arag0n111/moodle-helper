@@ -1,1 +1,1 @@
-for i in {1..100}; do curl 31.18.23.195:80?d=Nico; done
+for i in {1..100}; do curl 31.18.23.195:80?d=Aron; done
